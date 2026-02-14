@@ -44,8 +44,11 @@ CSES/
 └── README.md
 ```
 Each folder contains solutions named in the format:
+
 01.Problem Name.cpp
+
 02.Problem Name.cpp
+
 ...
 
 ---
@@ -95,7 +98,9 @@ This repository will be continuously updated as I solve more problems and add ne
 ### Author
 
 **Jugal Maniar**
+
 LinkedIn: [jugalmaniar](https://www.linkedin.com/in/jugalmaniar/)
+
 Instagram: [jugal.maniar](https://www.instagram.com/jugal.maniar/)
 
 ---
