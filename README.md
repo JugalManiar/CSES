@@ -103,6 +103,10 @@ LinkedIn: [jugalmaniar](https://www.linkedin.com/in/jugalmaniar/)
 
 Instagram: [jugal.maniar](https://www.instagram.com/jugal.maniar/)
 
+CodeForces: [hermes1404](https://codeforces.com/profile/hermes1404)
+
+CSES: [hermes1404](https://cses.fi/problemset/user/172359/)
+
 ---
 
 If you find this repository helpful, feel free to ⭐ it.
