@@ -1,0 +1,39 @@
+name: 🔄 Update CSES Progress
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.cpp"          # only re-run when a solution file changes
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write           # needed to commit README changes
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️  Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍  Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📊  Update progress in README
+        run: python scripts/update_progress.py
+
+      - name: 💾  Commit & push if README changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (
+            git add README.md &&
+            git commit -m "chore: auto-update CSES progress [skip ci]" &&
+            git push
+          )
