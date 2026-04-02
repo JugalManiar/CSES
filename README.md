@@ -26,7 +26,7 @@
 | 🔄 | **4. Graph Algorithms** | `2/36` | `█░░░░░░░░░░░░░░░░░░░` |
 | 🔄 | **5. Range Queries** | `5/25` | `████░░░░░░░░░░░░░░░░` |
 | 🔄 | **6. Tree Algorithms** | `11/16` | `██████████████░░░░░░` |
-| 🔄 | **7. Mathematics** | `1/37` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🔄 | **7. Mathematics** | `3/37` | `██░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **8. String Algorithms** | `0/21` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **9. Geometry** | `0/16` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **10. Advanced Techniques** | `0/25` | `░░░░░░░░░░░░░░░░░░░░` |
@@ -39,7 +39,7 @@
 | ⬜ | **17. Additional Problems I** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **18. Additional Problems II** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
 
-**Overall Progress &nbsp;·&nbsp; `88 / 400` solved &nbsp;·&nbsp; 22.0% complete**
+**Overall Progress &nbsp;·&nbsp; `90 / 400` solved &nbsp;·&nbsp; 22.5% complete**
 
 `███████░░░░░░░░░░░░░░░░░░░░░░░`
 
