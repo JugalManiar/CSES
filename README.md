@@ -20,21 +20,28 @@
 <!-- CSES_PROGRESS_START -->
 | # | Category | Solved | Progress |
 |---|----------|--------|----------|
-| 🔄 | **1. Introductory Problems** | `23/19` | `████████████████████████` |
+| 🔄 | **1. Introductory Problems** | `23/24` | `███████████████████░` |
 | 🔄 | **2. Sorting and Searching** | `30/35` | `█████████████████░░░` |
-| 🔄 | **3. Dynamic Programming** | `16/19` | `█████████████████░░░` |
-| 🔄 | **4. Graph Algorithms** | `1/36` | `█░░░░░░░░░░░░░░░░░░░` |
-| 🔄 | **5. Range Queries** | `5/19` | `█████░░░░░░░░░░░░░░░` |
+| 🔄 | **3. Dynamic Programming** | `16/23` | `██████████████░░░░░░` |
+| 🔄 | **4. Graph Algorithms** | `2/36` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🔄 | **5. Range Queries** | `5/25` | `████░░░░░░░░░░░░░░░░` |
 | 🔄 | **6. Tree Algorithms** | `11/16` | `██████████████░░░░░░` |
-| ⬜ | **7. Mathematics** | `0/31` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **8. String Algorithms** | `0/17` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **9. Geometry** | `0/7` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **10. Advanced Techniques** | `0/24` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **11. Additional Problems** | `0/77` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **7. Mathematics** | `0/37` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **8. String Algorithms** | `0/21` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **9. Geometry** | `0/16` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **10. Advanced Techniques** | `0/25` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **11. Sliding Window** | `0/11` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **12. Interactive Problems** | `0/6` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **13. Bitwise Operations** | `0/11` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **14. Construction Problems** | `0/8` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **15. Advanced Graph Problems** | `0/28` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **16. Counting Problems** | `0/18` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **17. Additional Problems I** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **18. Additional Problems II** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
 
-**Overall Progress &nbsp;·&nbsp; `86 / 300` solved &nbsp;·&nbsp; 28.7% complete**
+**Overall Progress &nbsp;·&nbsp; `87 / 400` solved &nbsp;·&nbsp; 21.8% complete**
 
-`█████████░░░░░░░░░░░░░░░░░░░░░`
+`███████░░░░░░░░░░░░░░░░░░░░░░░`
 
 <!-- CSES_PROGRESS_END -->
 
