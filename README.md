@@ -1,112 +1,118 @@
-# CSES Problem Set Solutions
+# CSES Problem Set — Solutions
 
-This repository contains my solutions to the [CSES Problem Set](https://cses.fi/problemset/).
+<div align="center">
 
-I am solving these problems to strengthen my understanding of:
+[![CSES Profile](https://img.shields.io/badge/CSES-hermes1404-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&style=for-the-badge)](https://cses.fi/problemset/user/172359/)
+[![Language](https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus&style=for-the-badge)](https://isocpp.org/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-orange?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/hermes1404)
+[![Stars](https://img.shields.io/github/stars/JugalManiar/CSES?style=for-the-badge&color=yellow)](https://github.com/JugalManiar/CSES/stargazers)
 
-- Data Structures
-- Algorithms
-- Graph Theory
-- Dynamic Programming
-- Range Queries
-- Greedy Techniques
-- Advanced Problem Solving
+**Systematic solutions to the [CSES Problem Set](https://cses.fi/problemset/) — 300 hand-picked algorithmic challenges.**
 
-All solutions are written in **C++** with a focus on:
-- Clean implementation
-- Optimal time complexity
-- Competitive programming standards
+</div>
 
 ---
-## 📂 Repository Structure
 
-The repository is organized according to CSES problem categories.
+## 📈 Progress
+
+> Automatically updated on every push via GitHub Actions — no manual tracking needed.
+
+<!-- CSES_PROGRESS_START -->
+| # | Category | Solved | Progress |
+|---|----------|--------|----------|
+| 🔄 | **1. Introductory Problems** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **2. Sorting and Searching** | `0/35` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **3. Dynamic Programming** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **4. Graph Algorithms** | `0/36` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **5. Range Queries** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **6. Tree Algorithms** | `0/16` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **7. Mathematics** | `0/31` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **8. String Algorithms** | `0/17` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **9. Geometry** | `0/7` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **10. Advanced Techniques** | `0/24` | `░░░░░░░░░░░░░░░░░░░░` |
+| ⬜ | **11. Additional Problems** | `0/77` | `░░░░░░░░░░░░░░░░░░░░` |
+
+**Overall Progress &nbsp;·&nbsp; `0 / 300` solved &nbsp;·&nbsp; 0.0% complete**
+
+`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+<!-- CSES_PROGRESS_END -->
+
+---
+
+## 📂 Repository Structure
 
 ```
 CSES/
 │
-├── Introductory_Problems/
+├── 1. Introductory Problems/
 │   ├── 01. Weird Algorithm.cpp
 │   ├── 02. Missing Number.cpp
 │   └── ...
 │
-├── Sorting_and_Searching/
+├── 2. Sorting and Searching/
 │   ├── 01. Distinct Numbers.cpp
-│   ├── 02. Apartments.cpp
 │   └── ...
 │
-├── Dynamic_Programming/
-│   └── ...
+├── 3. Dynamic Programming/
+├── 4. Graph Algorithms/
+├── 5. Range Queries/
+├── 6. Tree Algorithms/
+├── 7. Mathematics/
+├── 8. String Algorithms/
+├── 9. Geometry/
+├── 10. Advanced Techniques/
+├── 11. Additional Problems/
 │
-├── Graph_Algorithms/
-│   └── ...
-│
+├── scripts/
+│   └── update_progress.py   ← auto-updates the progress table above
 └── README.md
 ```
-Each folder contains solutions named in the format:
 
-01.Problem Name.cpp
-
-02.Problem Name.cpp
-
-...
+Solutions follow the naming convention: `01. Problem Name.cpp`
 
 ---
 
-## 🚀 Completed Sections
+## 🔍 Focus Areas
 
-### ✅ Introductory Problems
-Contains fundamental implementation and math-based problems.
-
-### ✅ Sorting and Searching
-Includes two pointers, binary search, greedy methods, and prefix sums.
-
-(More sections will be added as I progress.)
-
----
-
-## 🛠 Language & Tools
-
-- Language: **C++20**
-- Compiler: GNU G++
-- Platform: CSES Problem Set
+| Area | Why |
+|------|-----|
+| **Data Structures** | Segment trees, BIT, sparse tables, DSU |
+| **Graph Theory** | BFS/DFS, shortest paths, flows, SCC |
+| **Dynamic Programming** | Classic patterns, bitmask DP, digit DP |
+| **Range Queries** | Offline techniques, persistent structures |
+| **Mathematics** | Number theory, combinatorics, modular arithmetic |
+| **String Algorithms** | Z-function, KMP, suffix arrays, Aho-Corasick |
 
 ---
 
-## 📈 Goals
+## 🛠 Stack
 
-- Solve entire CSES Problem Set
-- Improve speed and implementation accuracy
-- Strengthen core DSA concepts
-- Prepare for coding interviews and contests
-
----
-
-## 🔗 CSES Profile
-
-You can practice these problems here:
-https://cses.fi/problemset/
+- **Language:** C++20
+- **Compiler:** GNU G++ with `-O2 -std=c++20`
+- **Platform:** [CSES Problem Set](https://cses.fi/problemset/)
 
 ---
 
-## ⭐ Progress
+## ⚡ Goals
 
-This repository will be continuously updated as I solve more problems and add new categories.
-
----
-
-### Author
-
-**Jugal Maniar**
-
-LinkedIn: [jugalmaniar](https://www.linkedin.com/in/jugalmaniar/)
-
-Instagram: [jugal.maniar](https://www.instagram.com/jugal.maniar/)
-
-CodeForces: [hermes1404](https://codeforces.com/profile/hermes1404)
-
-CSES: [hermes1404](https://cses.fi/problemset/user/172359/)
+- [ ] Complete all 300 CSES problems
+- [ ] Maintain clean, well-commented implementations
+- [ ] Reinforce patterns for competitive programming and interviews
+- [ ] Reach Codeforces **Candidate Master** 
 
 ---
 
-If you find this repository helpful, feel free to ⭐ it.
+## 👤 Author
+
+**Jugal Maniar** — IIT Roorkee '26
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jugalmaniar-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jugalmaniar/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%20%231734-orange?logo=codeforces&style=flat-square)](https://codeforces.com/profile/hermes1404)
+[![CSES](https://img.shields.io/badge/CSES-hermes1404-blue?style=flat-square)](https://cses.fi/problemset/user/172359/)
+[![GitHub](https://img.shields.io/badge/GitHub-JugalManiar-181717?logo=github&style=flat-square)](https://github.com/JugalManiar)
+
+---
+
+<div align="center">
+If this repo helped you, a ⭐ is appreciated!
+</div>
