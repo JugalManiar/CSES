@@ -10,17 +10,24 @@ from pathlib import Path
 
 # ── CSES problem set categories with known totals ──────────────────────────
 CATEGORIES = [
-    ("1. Introductory Problems",    19),
+    ("1. Introductory Problems",    24),
     ("2. Sorting and Searching",    35),
-    ("3. Dynamic Programming",      19),
+    ("3. Dynamic Programming",      23),
     ("4. Graph Algorithms",         36),
-    ("5. Range Queries",            19),
+    ("5. Range Queries",            25),
     ("6. Tree Algorithms",          16),
-    ("7. Mathematics",              31),
-    ("8. String Algorithms",        17),
-    ("9. Geometry",                  7),
-    ("10. Advanced Techniques",     24),
-    ("11. Additional Problems",     77),
+    ("7. Mathematics",              37),
+    ("8. String Algorithms",        21),
+    ("9. Geometry",                 16),
+    ("10. Advanced Techniques",     25),
+    ("11. Sliding Window",          11),
+    ("12. Interactive Problems",     6),
+    ("13. Bitwise Operations",      11),
+    ("14. Construction Problems",    8),
+    ("15. Advanced Graph Problems", 28),
+    ("16. Counting Problems",       18),
+    ("17. Additional Problems I",   30),
+    ("18. Additional Problems II",  30),
 ]
 
 TOTAL_PROBLEMS = sum(t for _, t in CATEGORIES)
