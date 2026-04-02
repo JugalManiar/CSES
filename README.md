@@ -20,21 +20,22 @@
 <!-- CSES_PROGRESS_START -->
 | # | Category | Solved | Progress |
 |---|----------|--------|----------|
-| 🔄 | **1. Introductory Problems** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **2. Sorting and Searching** | `0/35` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **3. Dynamic Programming** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **4. Graph Algorithms** | `0/36` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **5. Range Queries** | `0/19` | `░░░░░░░░░░░░░░░░░░░░` |
-| ⬜ | **6. Tree Algorithms** | `0/16` | `░░░░░░░░░░░░░░░░░░░░` |
+| 🔄 | **1. Introductory Problems** | `23/19` | `████████████████████████` |
+| 🔄 | **2. Sorting and Searching** | `30/35` | `█████████████████░░░` |
+| 🔄 | **3. Dynamic Programming** | `16/19` | `█████████████████░░░` |
+| 🔄 | **4. Graph Algorithms** | `1/36` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🔄 | **5. Range Queries** | `5/19` | `█████░░░░░░░░░░░░░░░` |
+| 🔄 | **6. Tree Algorithms** | `11/16` | `██████████████░░░░░░` |
 | ⬜ | **7. Mathematics** | `0/31` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **8. String Algorithms** | `0/17` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **9. Geometry** | `0/7` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **10. Advanced Techniques** | `0/24` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **11. Additional Problems** | `0/77` | `░░░░░░░░░░░░░░░░░░░░` |
 
-**Overall Progress &nbsp;·&nbsp; `0 / 300` solved &nbsp;·&nbsp; 0.0% complete**
+**Overall Progress &nbsp;·&nbsp; `86 / 300` solved &nbsp;·&nbsp; 28.7% complete**
 
-`░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+`█████████░░░░░░░░░░░░░░░░░░░░░`
+
 <!-- CSES_PROGRESS_END -->
 
 ---
