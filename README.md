@@ -25,7 +25,7 @@
 | 🔄 | **3. Dynamic Programming** | `16/23` | `██████████████░░░░░░` |
 | 🔄 | **4. Graph Algorithms** | `8/36` | `████░░░░░░░░░░░░░░░░` |
 | 🔄 | **5. Range Queries** | `9/25` | `███████░░░░░░░░░░░░░` |
-| 🔄 | **6. Tree Algorithms** | `11/16` | `██████████████░░░░░░` |
+| 🔄 | **6. Tree Algorithms** | `12/16` | `███████████████░░░░░` |
 | 🔄 | **7. Mathematics** | `3/37` | `██░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **8. String Algorithms** | `0/21` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **9. Geometry** | `0/16` | `░░░░░░░░░░░░░░░░░░░░` |
@@ -39,7 +39,7 @@
 | ⬜ | **17. Additional Problems I** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
 | ⬜ | **18. Additional Problems II** | `0/30` | `░░░░░░░░░░░░░░░░░░░░` |
 
-**Overall Progress &nbsp;·&nbsp; `100 / 400` solved &nbsp;·&nbsp; 25.0% complete**
+**Overall Progress &nbsp;·&nbsp; `101 / 400` solved &nbsp;·&nbsp; 25.2% complete**
 
 `████████░░░░░░░░░░░░░░░░░░░░░░`
 
