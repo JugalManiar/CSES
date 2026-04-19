@@ -7,7 +7,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-orange?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/hermes1404)
 [![Stars](https://img.shields.io/github/stars/JugalManiar/CSES?style=for-the-badge&color=yellow)](https://github.com/JugalManiar/CSES/stargazers)
 
-**Systematic solutions to the [CSES Problem Set](https://cses.fi/problemset/) — 300 hand-picked algorithmic challenges.**
+**Systematic solutions to the [CSES Problem Set](https://cses.fi/problemset/) — hand-picked algorithmic challenges.**
 
 </div>
 
@@ -103,7 +103,7 @@ Solutions follow the naming convention: `01. Problem Name.cpp`
 
 ## ⚡ Goals
 
-- [ ] Complete all 300 CSES problems
+- [ ] Complete all CSES problems
 - [ ] Maintain clean, well-commented implementations
 - [ ] Reinforce patterns for competitive programming and interviews
 - [ ] Reach Codeforces **Candidate Master** 
